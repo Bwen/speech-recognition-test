@@ -50,7 +50,7 @@ namespace SpeechRecognitionApp
 
         private static LiveTranscriptionOptions ConfigureDeepgram()
         {
-            const string secret = "cddbffb4166395bf90b66df29c57b7e85fa864b8";
+            const string secret = "api-key";
             var credentials = new Credentials(secret);
 
             _deepgramClient = new DeepgramClient(credentials);
