@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{2CC82C18-DF13-44C5-9162-ACA9ED69C6DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechRecognitionApp", "SpeechRecognitionApp\SpeechRecognitionApp.csproj", "{2CC82C18-DF13-44C5-9162-ACA9ED69C6DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
